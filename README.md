@@ -26,6 +26,5 @@
 [vuex](https://vuex.vuejs.org/) <br>
 
 
-```
 ## License
 GPL3
