@@ -10,10 +10,10 @@
 - 显示美化json的内容
 - ……<br>
 ## 截图
-![image](./rmimg/WechatIMG12.jpeg)
-![image](./rmimg/WechatIMG13.jpeg)
-![image](./rmimg/WechatIMG14.jpeg)
-![image](./rmimg/WechatIMG15.jpeg)
+![image](./screenshot/WechatIMG12.jpeg)
+![image](./screenshot/WechatIMG13.jpeg)
+![image](./screenshot/WechatIMG14.jpeg)
+![image](./screenshot/WechatIMG15.jpeg)
 
 
 ## 待优化
